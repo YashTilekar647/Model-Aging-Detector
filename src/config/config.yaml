@@ -1,0 +1,4 @@
+thresholds:
+  feature_shift: 0.15
+  confidence_shift: 0.20
+  instability: 0.05

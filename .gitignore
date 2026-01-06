@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+models/*.pkl
+reports/*.txt
+
+
+
+
+
+
+
+
+
+
+
+git branch -M main
+git remote add origin https://github.com/YashTilekar647/Model-Aging-Detector.git
+git push -u origin main
